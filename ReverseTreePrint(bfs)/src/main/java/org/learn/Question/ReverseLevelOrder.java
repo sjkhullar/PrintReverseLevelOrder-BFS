@@ -4,8 +4,6 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
 
-import org.learn.PrepareTree.Node;
-
 public class ReverseLevelOrder {
 
 	public static void reverseLevelOrder(Node root) {
